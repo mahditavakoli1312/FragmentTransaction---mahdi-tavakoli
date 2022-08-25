@@ -54,3 +54,9 @@
 <p class="has-line-data" data-line-start="53" data-line-end="55">Note: If you develop this class, send me a merge request to check<br>
 Or you can email me. <code>mahditavakoli7878@gmail.com</code></p>
 </blockquote>
+
+<blockquote>
+<p class="has-line-data" data-line-start="53" data-line-end="55">Note: androidx.fragment<br>
+</blockquote>
+
+

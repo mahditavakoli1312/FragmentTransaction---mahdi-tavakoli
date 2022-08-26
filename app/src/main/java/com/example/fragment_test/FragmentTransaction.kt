@@ -8,6 +8,13 @@ import androidx.fragment.app.commit
 
 class FragmentTransaction {
     companion object {
+
+        fun removeFragment(
+            supportFragmentManager: FragmentManager,
+        ) {
+            supportFragmentManager.popBackStack()
+        }
+
         fun replaceFragment(
             fragment: Fragment,
             supportFragmentManager: FragmentManager,
